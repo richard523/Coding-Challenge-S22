@@ -71,7 +71,7 @@ Renamed some of the columns (example: gill-attached to gill_attached)
 
 - In graphs.xlsx I took notes for each of the data. 
 
-- Sunken cost fallacy made me normalize all the categorical data manually. By the time I discovered sklearn's normalization tools I was already 80% finished with preprocessing the data.
+- Sunken cost fallacy made me normalize all the categorical data manually. By the time I discovered sklearn's normalization tools I was already 80% finished with preprocessing the data. (I might have done preprocessing part wrong.)
 
 - I was going to try making simple neural network but ran out of time.
 
