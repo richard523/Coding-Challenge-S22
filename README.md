@@ -76,6 +76,32 @@ Renamed some of the columns (example: gill-attached to gill_attached)
 - I was going to try making simple neural network but ran out of time.
 
 
+# Update:
+- Created version two using sklearn's tools as explained in this link: https://scikit-learn.org/stable/modules/preprocessing.html
+
+- I no longer get the warning that the graph "fails to converge" since I believe the data is now correctly preprocessed.
+
+- Used less iterations in order to avoid overfitting
+
+
+# Graph results:
+
+![image](https://user-images.githubusercontent.com/60868589/151863384-c9191350-de96-496b-800e-a6b217162493.png)
+
+![image](https://user-images.githubusercontent.com/60868589/151863397-e69768fe-233a-42fe-95a8-a5a5508ddda2.png)
+
+# error/warning I received: 
+![image](https://user-images.githubusercontent.com/60868589/151863441-c7a5dc14-d4f1-4eaf-a151-1c8034f3fd5e.png)
+
+k vs accuracy graph is not converging on any iterations so far
+
+![image](https://user-images.githubusercontent.com/60868589/151863534-e4f30fc9-54b9-4c11-a690-24688abb424a.png)
+tried using more iterations
+
+# After preprocessing using sklearn's chapter 6.3:
+![image](https://user-images.githubusercontent.com/60868589/151863620-fcf1882c-ec15-4391-9bca-f784f4df27a1.png)
+
+
 
 
 # How to create a mushroom prediction:
