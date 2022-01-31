@@ -86,7 +86,8 @@ Renamed some of the columns (example: gill-attached to gill_attached)
 
 # Graph results:
 
-*click to view*
+(click to view)
+
 ![image](https://user-images.githubusercontent.com/60868589/151863384-c9191350-de96-496b-800e-a6b217162493.png)
 
 ![image](https://user-images.githubusercontent.com/60868589/151863397-e69768fe-233a-42fe-95a8-a5a5508ddda2.png)
