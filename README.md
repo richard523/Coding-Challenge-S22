@@ -63,15 +63,19 @@ https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighb
 # Notes:
 Renamed some of the columns (example: gill-attached to gill_attached)
 
-I added a new component called mushroom_id that indexes all mushrooms. 
+- I added a new component called mushroom_id that indexes all mushrooms. 
 
-Uploaded my version of the mushrooms.csv file.
+- Uploaded my version of the mushrooms.csv file.
 
-Implemented using KNN and used previous notebook's example (for classifying iris species)
+- Implemented using KNN and used previous notebook's example (for classifying iris species)
 
-In graphs.xlsx I took notes for each of the data. 
+- In graphs.xlsx I took notes for each of the data. 
 
-I was going to try making simple neural network but ran out of time.
+- Sunken cost fallacy made me normalize all the categorical data manually. By the time I discovered sklearn's normalization tools I was already 80% finished with preprocessing the data.
+
+- I was going to try making simple neural network but ran out of time.
+
+
 
 
 # How to create a mushroom prediction:
