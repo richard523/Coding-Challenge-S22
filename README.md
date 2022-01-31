@@ -32,9 +32,33 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 
 # Resources used:
-# https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset/notebook
-# http://www.unit-conversion.info/texttools/ascii/ (to normalize from string to numbers)
-# https://colab.research.google.com/
+ https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset/notebook
+ http://www.unit-conversion.info/texttools/ascii/ (to normalize from string to numbers)
+ https://colab.research.google.com/
+ https://colab.research.google.com/drive/11OilxJRR-myxPzfXQwNXDnSGwtnbGt6J?usp=sharing													
+													
+													
+https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/													
+													
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/wheat-seeds.csv													
+													
+https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf													
+													
+https://towardsdatascience.com/building-a-shallow-neural-network-a4e2728441e0													
+													
+https://github.com/MJeremy2017/deep-learning/blob/main/shallow-neural-network/one-hidden-layer-nn.ipynb													
+													
+https://towardsdatascience.com/logistic-regression-step-by-step-implementation-f032a89936ca													
+													
+https://scikit-learn.org/stable/modules/preprocessing.html													
+													
+https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset/notebook													
+													
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html													
+													
+https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761#:~:text=KNN%20works%20by%20finding%20the,in%20the%20case%20of%20regression).													
+![image](https://user-images.githubusercontent.com/60868589/151781487-3776e1ed-5506-41c8-b1a2-24dc7e552be3.png)
+
 
 ## Notes:
 Implemented using KNN and used previous notebook's example (for classifying iris species)
