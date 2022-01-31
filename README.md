@@ -70,6 +70,7 @@ I was going to try making simple neural network but ran out of time.
 
 # How to create a mushroom prediction:
 
+I added a new component called mushroom_id that indexes all mushrooms. Uploading my version of the mushrooms.csv file.
 Just run my notebook through google colab. Example format for predictions are as follows:
 
 
