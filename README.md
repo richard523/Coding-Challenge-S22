@@ -86,9 +86,11 @@ Renamed some of the columns (example: gill-attached to gill_attached)
 
 # Graph results:
 
-(click to view)
+showing 3000 iterations before sklearn preprocessing
 
 ![image](https://user-images.githubusercontent.com/60868589/151863384-c9191350-de96-496b-800e-a6b217162493.png)
+
+showing 1250 iterations before sklearn preprocessing
 
 ![image](https://user-images.githubusercontent.com/60868589/151863397-e69768fe-233a-42fe-95a8-a5a5508ddda2.png)
 
@@ -97,11 +99,20 @@ Renamed some of the columns (example: gill-attached to gill_attached)
 
 k vs accuracy graph is not converging on any iterations so far
 
-![image](https://user-images.githubusercontent.com/60868589/151863534-e4f30fc9-54b9-4c11-a690-24688abb424a.png)
 tried using more iterations
 
-# After preprocessing using sklearn's chapter 6.3:
+3000 iterations
+
+![image](https://user-images.githubusercontent.com/60868589/151863534-e4f30fc9-54b9-4c11-a690-24688abb424a.png)
+
+6000 iterations
+
 ![image](https://user-images.githubusercontent.com/60868589/151863620-fcf1882c-ec15-4391-9bca-f784f4df27a1.png)
+
+# After preprocessing using sklearn's chapter 6.3:
+![image](https://user-images.githubusercontent.com/60868589/151864304-c5a4261e-c0f0-4c33-9676-e10cf386d475.png)
+
+
 
 
 
