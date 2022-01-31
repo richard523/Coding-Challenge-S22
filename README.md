@@ -47,7 +47,11 @@ I was going to try making simple neural network but ran out of time.
 # How to create a mushroom prediction:
 
 Just run my notebook through google colab. Example format for predictions are as follows:
+
+
 knn.predict([[5.0,	3.0,	8.0,	1.0,	6.0,	1.0,	0.0,	1.0,	5.0,	0.0,	3.0,	2.0,	2.0,	8.0,	8.0,	112.0,	2.0,	1.0,	4.0,	2.0,	3.0,	5.0	]])
+
+
 where each number is mapped in the chart below (needs 22 data points but may experiment with missing ones or putting values outside of boundaries?)
 
 
